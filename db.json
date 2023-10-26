@@ -1,0 +1,84 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "goals": 821,
+      "assists": 361,
+      "summary": "Lionel Andrés Messi, also known as Leo Messi, is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.",
+      "titles": 42
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "goals": 862,
+      "assists": 244,
+      "summary": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team.",
+      "titles": 34
+    },
+    {
+      "id": 3,
+      "name": "Andres Iniesta",
+      "goals": 305,
+      "assists": 306,
+      "summary": "Andrés Iniesta Luján is a Spanish professional footballer who plays as a midfielder for UAE Pro League club Emirates. Considered one of the greatest midfielders of all time, he was lauded for his balance, ball control and agility in close spaces, combined with his skill, composure, and flair on the ball.",
+      "titles": 35
+    },
+    {
+      "id": 4,
+      "name": "Xavi",
+      "goals": 241,
+      "assists": 178,
+      "summary": "Xavier Hernández Creus, also known as Xavi Hernández or simply Xavi, is a Spanish professional football manager and former player who is currently the manager of La Liga club Barcelona.",
+      "titles": 35
+    },
+    {
+      "id": 5,
+      "name": "Ronaldinho",
+      "goals": 369,
+      "assists": 245,
+      "summary": "Ronaldo de Assis Moreira, commonly known as Ronaldinho Gaúcho or simply Ronaldinho, is a Brazilian retired professional footballer who played mostly as an attacking midfielder, but was also deployed as a winger.",
+      "titles": 30
+    },
+    {
+      "id": 6,
+      "name": "Zinedine Zidane",
+      "goals": 184,
+      "assists": 182,
+      "summary": "Zinedine Yazid Zidane, popularly known as Zizou, is a French professional football manager and former player who played as an attacking midfielder. He most recently coached Spanish club Real Madrid and is one of the most successful coaches in the world.",
+      "titles": 20
+    },
+    {
+      "id": 7,
+      "name": "Thierry Henry",
+      "goals": 424,
+      "assists": 221,
+      "summary": "Thierry Daniel Henry is a French professional football coach, pundit, sports broadcaster and former player. He is currently the manager of the France national under-21 team. He is considered one of the greatest strikers of all time, and one of the greatest players in Premier League history.",
+      "titles": 18
+    },
+    {
+      "id": 8,
+      "name": "Manuel Neuer",
+      "goals": 581,
+      "assists": 167,
+      "summary": "Manuel Peter Neuer is a German professional footballer who plays as a goalkeeper and captains Bundesliga club Bayern Munich.",
+      "titles": 28
+    },
+    {
+      "id": 9,
+      "name": "Kaka",
+      "goals": 425,
+      "assists": 118,
+      "summary": "Ricardo Izecson dos Santos Leite, commonly known as Kaká or Ricardo Kaká, is a Brazilian former professional footballer who played as an attacking midfielder.",
+      "titles": 34
+    },
+    {
+      "id": 10,
+      "name": "Luis Suarez",
+      "goals": 621,
+      "assists": 201,
+      "summary": "Luis Alberto Suárez Díaz is a Uruguayan professional footballer who plays for Campeonato Brasileiro Série A club Grêmio and the Uruguay national team. Nicknamed El Pistolero, Suárez is regarded as one of the best players of his generation and one of the greatest strikers of all time.",
+      "titles": 30
+    }
+  ]
+}
